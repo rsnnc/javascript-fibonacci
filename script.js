@@ -22,4 +22,4 @@ function fib(num) {
 
 }
 
-console.log(fib()); // ENTER YOUR NUMBER!
+console.log(fib()); // ENTER YOUR NUMBER
